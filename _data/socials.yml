@@ -32,7 +32,7 @@ orcid_id: 0000-0002-8836-206X # your ORCID ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-# research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Ahsan-Tanveer # your profile on ResearchGate
 rss_icon: false # comment this line to hide the RSS icon
 scholar_userid: szXZ2qsAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
