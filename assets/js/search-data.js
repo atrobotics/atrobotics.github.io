@@ -398,16 +398,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-entitled-benefits-of-side-firing-optical-fibers-in-endoscopic-laser-treatment-of-the-larynx-was-featured-on-the-cover-page-of-the-may-2023-issue-of-the-laryngoscope",
-          title: 'Our paper entitled Benefits of Side-Firing Optical Fibers in Endoscopic Laser Treatment of...',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-our-paper-narx-modeling-and-simulation-of-heave-dynamics-with-application-of-robust-control-of-an-underactuated-underwater-vehicle-has-been-accepted-to-ocean-engineering",
+          title: 'Our paper NARX modeling and simulation of heave dynamics with application of robust...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
