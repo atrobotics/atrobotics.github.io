@@ -398,10 +398,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-paper-narx-modeling-and-simulation-of-heave-dynamics-with-application-of-robust-control-of-an-underactuated-underwater-vehicle-has-been-accepted-to-ocean-engineering",
+            },},{id: "news-our-paper-narx-modeling-and-simulation-of-heave-dynamics-with-application-of-robust-control-of-an-underactuated-underwater-vehicle-has-been-accepted-to-ocean-engineering",
           title: 'Our paper NARX modeling and simulation of heave dynamics with application of robust...',
           description: "",
           section: "News",},{id: "projects-project-1",
