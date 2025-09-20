@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-paper-entitled-benefits-of-side-firing-optical-fibers-in-endoscopic-laser-treatment-of-the-larynx-was-featured-on-the-cover-page-of-the-may-2023-issue-of-the-laryngoscope",
+          title: 'Our paper entitled Benefits of Side-Firing Optical Fibers in Endoscopic Laser Treatment of...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
