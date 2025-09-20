@@ -27,8 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a research assistant in the Interdisciplinary Research Center for Intelligent Manufacturing and Robotics (IRC-IMR) at King Fahd University of Petroleum and Minerals, Dhahran. Previously, I was a lecturer at the Institute of Avionics and Aeronautics (IAA), Air University, Islamabad. I obtained my master’s degree in mechanical engineering from the GIK Institute of Engineering Sciences and Technology (GIKIEST), Swabi, in 2021. During my masters, I was affiliated with the Vibrational Dynamics and Controls (VDC) Lab, advised by Prof. Sarvat M. Ahmad. I received my bachelor's degree in mechanical engineering from the University of Engineering & Technology (UET), Peshawar, in 2019, advised by Prof. Mohammad A. Irfan.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Broadly speaking, my research interests lie in some of the modern areas of robotics, control theory, and machine learning with special emphasis on marine robots.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+More specifically, I’m interested in the following topics:
+
+1. Underwater Soft Robot Modeling and Control
+
+2. Bio-inspired Actuators for Untethered Underwater Robotics
+
+2. Underwater Localization and Manipulation using Electrosensory Feedback
+
+Please feel free to reach out, if you would like to talk about my work or discuss something of mutual interest.
