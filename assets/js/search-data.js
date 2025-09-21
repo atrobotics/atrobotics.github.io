@@ -31,9 +31,9 @@ ninja.data = [{
             },},{id: "news-our-paper-narx-modeling-and-simulation-of-heave-dynamics-with-application-of-robust-control-of-an-underactuated-underwater-vehicle-has-been-accepted-to-ocean-engineering",
           title: 'Our paper NARX modeling and simulation of heave dynamics with application of robust...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "Thrust Vectoring Control",
+          section: "News",},{id: "projects-thrust-vectoring-control",
+          title: 'Thrust Vectoring Control',
+          description: "Fluidic Thrust Vectoring Control of a Delta Wing UAV",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
