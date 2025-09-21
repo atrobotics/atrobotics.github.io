@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: Thrust Vectoring Control
+title: Thrust Vectoring Control
+description: Fluidic Thrust Vectoring Control of a Delta Wing UAV
 img: assets/img/12.jpg
 importance: 1
 category: work
