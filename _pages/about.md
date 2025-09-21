@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctoral Student, <a href='https://en.ibdl.pku.edu.cn'>Intelligent Biomimetic Design Lab</a>, Peking University.
+subtitle: Doctoral Student, <a href='https://en.ibdl.pku.edu.cn'>Intelligent Biomimetic Design Lab</a>, <a href='https://english.pku.edu.cn'>Peking University</a>.
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: # leave blank to include all the blog posts
 ---
 
-I am currently a doctoral student under Prof. Xie Guangming at the School of Advanced Manufacturing and Robotics, Peking University. Previously, I was a lecturer at the Institute of Avionics and Aeronautics (IAA), Air University, Islamabad. I obtained my master’s degree in mechanical engineering from the GIK Institute of Engineering Sciences and Technology (GIKIEST), Swabi, in 2021. During my masters, I was affiliated with the Vibrational Dynamics and Controls (VDC) Lab, advised by Prof. Sarvat M. Ahmad. I received my bachelor's degree in mechanical engineering from the University of Engineering & Technology (UET), Peshawar, in 2019, advised by Prof. Mohammad A. Irfan. I have also worked at the National University of Sciences and Technology (NUST), Pakistan, and at the Interdisciplinary Research Center for Intelligent Manufacturing and Robotics (IRC-IMR), King Fahd University of Petroleum and Minerals, Saudi Arabia.
+I am currently a doctoral student under Prof. <a href='https://amr.pku.edu.cn/jzyg/szdw/X/0dba539cb6214815a8b90e659d9eabef.htm'>Guangming Xie</a> at the School of Advanced Manufacturing and Robotics, Peking University. Previously, I was a lecturer at the Institute of Avionics and Aeronautics (IAA), Air University, Islamabad. I obtained my master’s degree in mechanical engineering from the GIK Institute of Engineering Sciences and Technology (GIKIEST), Swabi, in 2021. During my masters, I was affiliated with the Vibrational Dynamics and Controls (VDC) Lab, advised by Prof. Sarvat M. Ahmad. I received my bachelor's degree in mechanical engineering from the University of Engineering & Technology (UET), Peshawar, in 2019, advised by Prof. Mohammad A. Irfan. I have also worked at the National University of Sciences and Technology (NUST), Pakistan, and at the Interdisciplinary Research Center for Intelligent Manufacturing and Robotics (IRC-IMR), King Fahd University of Petroleum and Minerals, Saudi Arabia.
 
 Broadly speaking, my research interests lie in some of the modern areas of robotics, applied controls, and machine learning with special emphasis on marine robots.
 
