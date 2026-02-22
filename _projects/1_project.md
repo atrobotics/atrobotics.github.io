@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Thrust Vectoring Control
-description: Fluidic Thrust Vectoring Control of a Delta Wing UAV
-img: assets/img/ftv1.png
+title: Bio-to-Robot Transfer
+description: Bio-to-Robot Transfer of Fish Sensorimotor Dynamics via Interpretable Model
+img: assets/img/tocfig.png
 importance: 1
 category: work
 related_publications: true
 ---
 
-This project explored fluidic thrust vectoring (FTV) as an alternative to traditional mechanical control surfaces for unmanned aerial vehicles (UAVs). The work involved both mathematical modeling and computational/experimental validation of fluidic actuation strategies for controlling delta wing configurations.
+This study demonstrates how a biologically interpretable model trained on real-fish muscle activity can accurately predict the motion of a robotic fish. By linking real-fish sensorimotor dynamics with robotic fish, the work offers a transparent, data-efficient framework for transferring biological intelligence to bioinspired robotic systems.
 
 Key contributions include:
 
-1. Developing analytical and numerical models for FTV-based control of delta wing UAVs.
-2. Designing and testing a dynamic experimental rig to validate flow control concepts.
-3. Demonstrating that fluidic actuation can generate effective control forces, enabling enhanced maneuverability without the complexity of movable surfaces.
+1. A direct biological-to-robotic prediction approach using an interpretable SysID model trained only on fish data
+2. A bidirectional EMG to kinematics mapping that estimates delays and gains to clarify sensorimotor coupling
+3. Evidence of cross-individual and cross-domain generalization, benchmarked against a DNN in offline tests
 
-These studies highlighted the potential of FTV for next-generation UAVs, offering reduced mechanical complexity, stealth advantages, and adaptability in both conventional and unconventional flight regimes.
+Together, these results provide a simple route from animal signals to transferable, interpretable motion models for bioinspired robots.
