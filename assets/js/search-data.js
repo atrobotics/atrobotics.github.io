@@ -37,9 +37,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-latest-paper-on-emg-driven-telemetry-and-inference-system-for-fish-was-just-accepted-in-advanced-intelligent-systems",
           title: 'Our latest paper on EMG-driven telemetry and inference system for fish was just...',
           description: "",
-          section: "News",},{id: "projects-thrust-vectoring-control",
-          title: 'Thrust Vectoring Control',
-          description: "Fluidic Thrust Vectoring Control of a Delta Wing UAV",
+          section: "News",},{id: "projects-bio-to-robot-transfer",
+          title: 'Bio-to-Robot Transfer',
+          description: "Bio-to-Robot Transfer of Fish Sensorimotor Dynamics via Interpretable Model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-underactuated-rov",
