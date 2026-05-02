@@ -16,7 +16,7 @@ The framework is evaluated on a tendon-driven 3D continuum arm, classical nonlin
 ## Paper
 
 **Equilibrium-Anchored Residual Dynamics for Stable Multi-Step Rollouts of Soft Robotic Systems**  
-Rahdar Hussain Afridi, [Coauthor Names]
+Rahdar Hussain Afridi, Coauthor Names
 
 Accepted at **Robotics: Science and Systems (RSS), 2026**.
 
@@ -48,10 +48,12 @@ For reproducibility inquiries before release, please contact the authors.
 
 ## Citation
 
+{% raw %}
+
 ```bibtex
 @inproceedings{afridi2026equilibrium,
   title={Equilibrium-Anchored Residual Dynamics for Stable Multi-Step Rollouts of Soft Robotic Systems},
-  author={Afridi, Rahdar Hussain and ...},
+  author={Afridi, Rahdar Hussain and Coauthor Names},
   booktitle={Robotics: Science and Systems},
   year={2026}
 }
