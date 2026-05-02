@@ -59,6 +59,11 @@ ninja.data = [{
           description: "Modeling and Control of an Underactuated ROV",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-equilibrium-anchored-rollouts-for-stable-multi-step-prediction",
+          title: 'Equilibrium-Anchored Rollouts for Stable Multi-Step Prediction',
+          description: "RSS 2026 paper project page",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/equilibrium-anchored-rollouts/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
