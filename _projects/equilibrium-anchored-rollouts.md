@@ -20,8 +20,8 @@ Rahdar Hussain Afridi, Coauthor Names
 
 Accepted at **Robotics: Science and Systems (RSS), 2026**.
 
-[Paper PDF](#)  
-[Supplementary Video](#)
+Paper PDF: coming soon  
+Supplementary video: coming soon
 
 ## Method
 
@@ -48,12 +48,10 @@ For reproducibility inquiries before release, please contact the authors.
 
 ## Citation
 
-{% raw %}
-
 ```bibtex
 @inproceedings{afridi2026equilibrium,
-  title={Equilibrium-Anchored Residual Dynamics for Stable Multi-Step Rollouts of Soft Robotic Systems},
-  author={Afridi, Rahdar Hussain and Coauthor Names},
-  booktitle={Robotics: Science and Systems},
-  year={2026}
+  title = {Equilibrium-Anchored Residual Dynamics for Stable Multi-Step Rollouts of Soft Robotic Systems},
+  author = {Afridi, Rahdar Hussain and Coauthor Names},
+  booktitle = {Robotics: Science and Systems},
+  year = {2026}
 }
