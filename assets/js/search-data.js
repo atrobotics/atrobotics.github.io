@@ -59,6 +59,11 @@ ninja.data = [{
           description: "Modeling and Control of an Underactuated ROV",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-bio-to-robot-transfer",
+          title: 'Bio-to-Robot Transfer',
+          description: "Fish sensorimotor dynamics transferred to a robotic fish using an interpretable ARX model.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bio-to-robot/";
             },},{id: "projects-equilibrium-anchored-rollouts",
           title: 'Equilibrium-Anchored Rollouts',
           description: "RSS 2026 project page for stable multi-step prediction of soft robotic systems",
