@@ -2,14 +2,14 @@
 layout: page
 title: Bio-to-Robot Transfer
 description: Fish sensorimotor dynamics transferred to a robotic fish using an interpretable ARX model.
-img: /assets/img/bio-to-robot.jpg
+img: /assets/img/tocfig.png
 importance: 1
 category: research
 ---
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/bio-to-robot.jpg" title="Bio-to-Robot Transfer" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/tocfig.png" title="Bio-to-Robot Transfer" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
