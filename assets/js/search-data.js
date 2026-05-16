@@ -51,6 +51,11 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-bio-to-robot-transfer",
           title: 'Bio-to-Robot Transfer',
+          description: "Bio-to-Robot Transfer of Fish Sensorimotor Dynamics via Interpretable Model",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-bio-to-robot-transfer",
+          title: 'Bio-to-Robot Transfer',
           description: "Fish sensorimotor dynamics transferred to a robotic fish using an interpretable ARX model.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bio-to-robot/";
