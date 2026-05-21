@@ -1,10 +1,24 @@
 ---
 ---
+@inproceedings{tanveer2026toward,
+  bibtex_show={true},
+  abbr={ICRA},
+  title={Toward Gripper-Integrated Active Electrosense for Pre-Contact Sensing in Underwater Soft Grippers},
+  author={Ahsan Tanveer and Muhammad Hamza and Waqar Hussain Afridi and Chen Wang and Guangming Xie},
+  booktitle={The Workshop on Manipulation Robustness: Towards Human-Level Robustness under Real-World Challenges (ICRA 2026)},
+  abstract={Underwater manipulation often occurs under degraded visibility due to turbidity, glare, and gripper occlusion, limiting the reliability of vision-based perception during approach and grasping. In such settings, soft grippers are well suited for compliant interaction, but they typically lack an onboard pre-contact cue that can guide approach and closure when vision is unreliable. This extended abstract explores active electrosense as a lightweight sensing modality that can provide a proximity-like signal prior to contact by measuring perturbations of an applied electric field in conductive media. We instrument an octopus-inspired gripper with a discrete electrode layout and record multi-channel sensing voltages using off-the-shelf hardware. Simulation and tank experiments with a suspended conductive sphere show structured, object-dependent changes in the multi-electrode voltage readout relative to empty-water baselines, with detectability varying across excitation of 5 to 20 V and frequencies from 1 mHz to 1 kHz. These findings motivate systematic investigation of gripper-integrated electrosense as a complementary pre-contact cue for underwater soft manipulation.},
+  selected={true},
+  year={2026},
+  url={https://openreview.net/forum?id=rdWW5xPrhN}
+}
+
 @inproceedings{ahsan2026stabilizing,
   bibtex_show={true},
   abbr={RSS},
   title={Stabilizing 3D Continuum-Arm Rollouts via Equilibrium Anchoring and Feature-Lifted Residual Learning},
   author={Tanveer, Ahsan and Afridi, Rahdar Hussain and Afridi, Waqar Hussain and Zhang, Feitian and Xie, Guangming},
+  abstract={Multi-step motion prediction for continuum robots is difficult, especially under actuation distribution shift, where error accumulation can distort the predicted steady response and destabilize rollouts. This paper introduces a hybrid equilibriumanchored residual-learning framework for a tendon-driven 3D continuum arm that makes steady behavior explicit. An equilibrium prior is learned from inexpensive static equilibrium data and used in a contractive update that continuously pulls predictions toward the equilibrium estimate, improving rollout stability. A lightweight feature-lifted residual model, linear in parameters, learns the remaining one-step mismatch from dynamic trajectory data, recovering transient dynamics. The approach is validated on 200-step simulation rollouts under stronger and faster actuation than in training, with an additional soft-tail hardware test under actuation-frequency shift. The Hybrid method reduces backbone position RMSE by 26% and tip position RMSE by 27%, producing consistent accuracy gains over prior-only and
+residual-only predictors while remaining stable across all tested trajectories. The same proposed model also improves robustness on standard nonlinear benchmarks against a combined Koopman baseline under matched evaluation protocols.},
   booktitle={Robotics: Science and Systems},
   selected={true},
   year={2026}
