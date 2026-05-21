@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Our extended abstract on electric sensing as pre-contact cue for underwater soft robotic manipulation got
-accepted for poster presentation in <a href='https://manipulation-robustness.github.io/icra2026/'>Workshop on Manipulation Robustness</a> at <a href='https://2026.ieee-icra.org/'>ICRA 2026</a>.
+accepted for poster presentation in [Workshop on Manipulation Robustness](https://manipulation-robustness.github.io/icra2026/) at [ICRA 2026](https://2026.ieee-icra.org/).
