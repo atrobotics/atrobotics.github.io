@@ -54,9 +54,9 @@ ninja.data = [{
           description: "Fish sensorimotor dynamics transferred to a robotic fish using an interpretable ARX model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bio-to-robot/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-fish-emg-kinematics",
+          title: 'Fish EMG Kinematics',
+          description: "EMG-Driven Telemetry and Inference System for Fish",
           section: "Projects",handler: () => {
               window.location.href = "/projects/emgfishkinematics/";
             },},{id: "projects-equilibrium-anchored-rollouts",
