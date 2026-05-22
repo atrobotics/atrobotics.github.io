@@ -54,6 +54,11 @@ ninja.data = [{
           description: "Fish sensorimotor dynamics transferred to a robotic fish using an interpretable ARX model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bio-to-robot/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/emgfishkinematics/";
             },},{id: "projects-equilibrium-anchored-rollouts",
           title: 'Equilibrium-Anchored Rollouts',
           description: "RSS 2026 project page for stable multi-step prediction of soft robotic systems",
