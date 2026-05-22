@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fish EMG Kinematics
-description: EMG-Driven Telemetry and Inference System for Fish: Pose Reconstruction and Flow Sensing
+description: EMG-Driven Telemetry and Inference System for Fish
 img: assets/img/emgcover.png
 importance: 3
 category: research
