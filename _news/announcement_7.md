@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 I am selected for the prestigious
-<a href="https://www.uni-konstanz.de/zukunftskolleg/fellowships/zukonnect-fellowship/">ZUKOnnect Fellowship</a>
+<a href="https://www.uni-konstanz.de/zukunftskolleg/community/zukonnect-fellows/">ZUKOnnect Fellowship</a>
 at the <a href="https://www.uni-konstanz.de/en/">University of Konstanz</a>.
