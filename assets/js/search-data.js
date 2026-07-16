@@ -43,7 +43,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-selected-for-the-prestigious-zukonnect-fellowship-at-the-university-of-konstanz",
           title: 'I am selected for the prestigious ZUKOnnect Fellowship at the University of Konstanz....',
           description: "",
-          section: "News",},{id: "news-our-latest-work-on-stabilizing-rollouts-for-3d-continuum-robots-got-accepted-in-robot-learning-track-at-rss-2026",
+          section: "News",},{id: "news-our-latest-work-on-stabilizing-rollouts-for-3d-continuum-robots-got-accepted-in-control-amp-amp-dynamics-track-at-rss-2026",
           title: 'Our latest work on stabilizing rollouts for 3D continuum robots got accepted in...',
           description: "",
           section: "News",},{id: "news-our-extended-abstract-on-electric-sensing-as-pre-contact-cue-for-underwater-soft-robotic-manipulation-got-accepted-for-poster-presentation-in-workshop-on-manipulation-robustness-at-icra-2026",
