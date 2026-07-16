@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Our latest work on stabilizing rollouts for 3D continuum robots got
-accepted in robot learning track at <a href='https://roboticsconference.org/'>RSS 2026</a>.
+accepted in Control \& Dynamics track at <a href='https://roboticsconference.org/program/papers/106/'>RSS 2026</a>.
