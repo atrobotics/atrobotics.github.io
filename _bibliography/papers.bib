@@ -3,10 +3,10 @@
 @inproceedings{ahsan2026fdi,
   bibtex_show={true},
   abbr={Under review},
-  title={Explicit Actuator-Fault Identification for Post-Training Robot Policy Recovery},
+  title={Explicit Actuator-Effectiveness Estimation for Post-Training Robot Policy Recovery},
   author={Tanveer, Ahsan and Hamza, Muhammad and Afridi, Rahdar Hussain and Afridi, Waqar Hussain and Wang, Chen and Lu, Zongqing and Xie, Guangming},
   abstract={Actuator loss of effectiveness breaks the action-to-motion map assumed by learned robot policies, yet the fault is rarely measured directly at deployment. This letter introduces an explicit diagnosis–recovery interface for post-training actuator degradation under output feedback. A trajectory-level identifier estimates the continuous actuator-effectiveness factor ηt from recent observation-action history, and a task-specific recovery module acts on this estimate while the nominal policy remains frozen. The interface supports fault-conditioned model predictive control (MPC) for tendon-driven continuum robot (TDCR) reaching and residual-policy recovery for locomotion benchmarks. On TDCR reaching, the identifier attains a mean absolute error of 0.028 and the fault-conditioned MPC reduces terminal error by up to 38.0%, whereas policy conditioning and scalar gain compensation remain near the faulted baseline. On HalfCheetah, Ant, and Humanoid, diagnosis-conditioned residual policies improve return by up to 39.5%, 28.0%, and 53.6%. Across all platforms, recovery is determined not by estimation accuracy alone but by pairing the estimate with a controller able to exploit the remaining actuation authority.},
-  booktitle={IEEE Robotics and Automation Letters},
+  journal={IEEE Robotics and Automation Letters},
   selected={true},
   year={2026}
 }
